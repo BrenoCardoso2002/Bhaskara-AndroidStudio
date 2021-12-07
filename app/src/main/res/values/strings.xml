@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Bhaskara</string>
+    <string name="equacao">Ax² + Bx + C = 0</string>
+    <string name="IvarA">Insira o valor de A:</string>
+    <string name="IvarB">Insira o valor de B:</string>
+    <string name="IvarC">Insira o valor de C:</string>
+    <string name="CalcDelta">Calcular Delta</string>
+    <string name="CalcRaizes">Calcular Raizes</string>
+    <string name="ByName">By Breno Cardoso</string>
+</resources>
